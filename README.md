@@ -1,2 +1,3 @@
 # Exploring-the-Bitcoin-Cryptocurrency-Market
-In this project, I do some Data Manipulation, Data Visualization, and Importing & Cleaning Data
+In this project, I explore the *market capitalization* of different (cryptocurrencies)[https://en.wikipedia.org/wiki/Cryptocurrency] 
+This notebook contains some importing & cleaning data, data manipulation, and data visualization
